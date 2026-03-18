@@ -8,7 +8,7 @@
 
 ---
 
-## Live Dashboard & Video Sunum
+## Live Dashboard
 
 🔗 **[Tableau Public'te Görüntüle →](https://public.tableau.com/views/FinalProject-2_17727198022740/Dashboard1)**
 
