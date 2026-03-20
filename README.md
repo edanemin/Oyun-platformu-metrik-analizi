@@ -21,9 +21,7 @@
  ┣  sql/
  ┃ ┣  01_data_cleaning.sql     
  ┃ ┣  02_data_cleaning_2.sql   
- ┃ ┗  03_metrics.sql            
- ┣  assets/
- ┃ ┗  dashboard.png            
+ ┃ ┗  03_metrics.sql                     
  ┣  data/
  ┃ ┗  dictionary.md             
  ┗  README.md
