@@ -1,5 +1,5 @@
 # 🎮 Oyun Platformu Metrik Analizi
-### SaaS Revenue & User Analytics | PostgreSQL + Tableau Public
+### SaaS Revenue & User Analytics 
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
